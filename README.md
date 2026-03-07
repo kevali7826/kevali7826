@@ -27,11 +27,26 @@
 </p>
 
 ---
-
 <p align="center">
-<i>"In C++ it's harder to shoot yourself in the foot, but when you do, you blow off your whole leg."</i>
+<i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
 
 <p align="center">
-— Bjarne Stroustrup
+— Cory House
 </p>
+
+## 👋 About Me:
+
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+🎓 I'm **Kevali**, a passionate software developer.
+
+💻 Currently learning **Full Stack Development** and working with modern technologies.
+
+🌱 I’m improving my skills in **Java, React, Node.js, and System Design**.
+
+🚀 Interested in **Backend Development, APIs, and scalable systems**.
+
+💬 Feel free to ask me about **Programming, DSA, or Web Development**.
+
+⚡ Fun fact: *I enjoy turning complex problems into simple code.*
